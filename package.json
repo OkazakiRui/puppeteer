@@ -1,0 +1,11 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OkazakiRui/puppeteer.git",
+  "author": "RuiOkazaki <okazaki200226@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^13.6.0"
+  }
+}
